@@ -22,3 +22,9 @@ Here is a rough list of requirements for this project:
 Start with building the API first and then frontend; you can use tools like Postman to interact with your API. Alternatively, build a simple frontend with HTML, CSS and some templating engine like Jinja or EJS.
 
 This project is a great way to learn how to build a complex application with a lot of moving parts. I will highly recommend you to complete this project before moving on to more advanced projects.
+
+
+# Stauts 
+- Setup frontend of the project
+- Setup Banner, Navbar, Login, SignIn components
+- Setup footer
