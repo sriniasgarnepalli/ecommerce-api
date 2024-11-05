@@ -30,3 +30,4 @@ This project is a great way to learn how to build a complex application with a l
 - Setup footer
 - Setup About page
 - Setup 404 page
+- Setup Contact page
