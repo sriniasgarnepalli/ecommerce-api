@@ -24,7 +24,9 @@ Start with building the API first and then frontend; you can use tools like Post
 This project is a great way to learn how to build a complex application with a lot of moving parts. I will highly recommend you to complete this project before moving on to more advanced projects.
 
 
-# Stauts 
+# Status 
 - Setup frontend of the project
 - Setup Banner, Navbar, Login, SignIn components
 - Setup footer
+- Setup About page
+- Setup 404 page
