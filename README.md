@@ -31,3 +31,7 @@ This project is a great way to learn how to build a complex application with a l
 - Setup About page
 - Setup 404 page
 - Setup Contact page
+
+# WIP
+- Working on backend implementation
+
